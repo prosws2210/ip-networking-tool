@@ -1,0 +1,7 @@
+[theme]
+base="dark" # Ensures dark theme is the default if any ambiguity
+primaryColor="#007ACC" # Example primary color
+
+[server]
+headless = true # Recommended for Streamlit Cloud
+enableCORS = false
